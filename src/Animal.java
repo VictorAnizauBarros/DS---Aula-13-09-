@@ -8,9 +8,9 @@ public class Animal {
         this.habitat = habitat;
     }
 
-    public String raca;
-    public String nome_Tutor;
-    public String habitat;
+    private String raca;
+    private String nome_Tutor;
+    private String habitat;
 
 
     public void fazerRuido(){
